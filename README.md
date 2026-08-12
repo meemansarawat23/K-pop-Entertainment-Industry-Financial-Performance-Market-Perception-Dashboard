@@ -13,7 +13,7 @@
 
 ◽ Used Excel for data preparation and calculations and Tableau for comparative visualization, converting multi-source secondary data into business-level insights and strategic recommendations.
 
-𝄜 Tools:
+# 𝄜 Tools:
 
 📊Power BI-Used to create interactive dashboards and visualise KPIs, trends, comparisons, and relationships across the four K-pop entertainment companies.
 
