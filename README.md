@@ -20,7 +20,11 @@ The dashboard was built using following tools:
 # 🛢 Data Sources
 
 https://hybecorp.com/en/investors/archive/result/
+
 https://in.tradingview.com/symbols/KRX-122870/financials-income-statement/
+
 https://in.tradingview.com/symbols/KRX-041510/financials-statistics-and-ratios/
+
 https://in.tradingview.com/symbols/KRX-035900/financials-revenue/
+
 https://www.jype.com/IR/Financial#
