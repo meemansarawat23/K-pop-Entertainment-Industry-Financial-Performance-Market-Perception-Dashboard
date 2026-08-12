@@ -1,6 +1,6 @@
 # K-pop-Entertainment-Industry-Financial-Performance-Market-Perception-Dashboard
 
-# Financial Performance, Global Expansion, and Market Perception of Leading K-pop Entertainment Companies: A Comparative Data Analytics Study
+# Financial Performance, Global Expansion, and Market Perception of Leading K-pop Entertainment Companies: A Comparative Data Analytics Project
 
 # 📝 Description 
 ◽ Analysed 2020–2025 financial and market data of HYBE, SM Entertainment, JYP Entertainment, and YG Entertainment to compare financial performance, revenue structure, international expansion, and market perception.
